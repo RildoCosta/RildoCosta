@@ -3,7 +3,7 @@
 - 📓 Eu estou estudando git e github nesse momento
 - 🙏🏻 Pretendo me tornar um Dev iOS
 - 🇧🇷 Sds 
-- Rildo Israel -
+- Rildo Israel 
 
 <div align="center">
   <a href="https://github.com/RildoCosta">
@@ -11,12 +11,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RildoCosta&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-### - Social Networks
+### - 🌐 Social Networks
 <div> 
   <a href="https://www.linkedin.com/in/rildo-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### - Technologies and Tools (in progress)
+### - ⚒️ Technologies and Tools (in progress)
 <img height="100em"  width= "100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" />
 
       
