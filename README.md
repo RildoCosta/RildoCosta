@@ -16,7 +16,13 @@
   <a href="https://www.linkedin.com/in/rildo-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+
 ### - ⚒️ Technologies and Tools (in progress)
-<img height="100em"  width= "100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" />
+  <img height="90em"  width= "80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" />
+  <img height="80em"  width= "70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <img height="80em"  width= "70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+         
+          
+
 
       
