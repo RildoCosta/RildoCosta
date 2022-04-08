@@ -1,14 +1,14 @@
 ## Olá ! Bem vindo a minha conta no github.
 
-- 🔭 Eu estou estudando git e github nesse momento
-- 🌱 Pretendo me tornar um dev ios
-- 👯 Sds ...
-- 🤔 Rildo ...
+- 📓 Eu estou estudando git e github nesse momento
+- 🙏🏻 Pretendo me tornar um Dev iOS
+- 🇧🇷 Sds ...
+- Rildo ...
 
 <div align="center">
   <a href="https://github.com/RildoCosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RildoCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RildoCosta&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RildoCosta&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RildoCosta&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
   ##
